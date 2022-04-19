@@ -1,4 +1,4 @@
-#Steps to run
+# Steps to run
 
 - Run the Elastic docker compose - ``docker-compose up``
 - Once the service is running, run the spring boot project - 
