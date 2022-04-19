@@ -1,6 +1,6 @@
 # Steps to run
 
-- Run the Elastic docker compose - ``docker-compose up``
+- Run the Elastic docker compose - ``docker-compose up`` in the parent directory where the **docker-compose.yaml** is located.
 - Once the service is running, run the spring boot project - 
   `mvnw.cmd clean compile spring-boot:run`
   
